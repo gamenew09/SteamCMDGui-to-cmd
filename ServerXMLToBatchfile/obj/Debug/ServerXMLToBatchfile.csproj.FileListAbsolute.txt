@@ -1,0 +1,6 @@
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\bin\Debug\ServerXMLToBatchfile.exe.config
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\obj\Debug\ServerXMLToBatchfile.csprojResolveAssemblyReference.cache
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\bin\Debug\ServerXMLToBatchfile.exe
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\bin\Debug\ServerXMLToBatchfile.pdb
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\obj\Debug\ServerXMLToBatchfile.exe
+E:\VSProjects\CSharp\ServerXMLToBatchfile\ServerXMLToBatchfile\obj\Debug\ServerXMLToBatchfile.pdb
